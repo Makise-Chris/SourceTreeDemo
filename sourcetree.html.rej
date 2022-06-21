@@ -1,10 +1,9 @@
 diff a/sourcetree.html b/sourcetree.html	(rejected hunks)
-@@ -7,6 +7,6 @@
+@@ -7,5 +7,6 @@
      <title>Source tree</title>
  </head>
  <body>
--    <h1>Nguyen Tien Nam</h1>
-+    <h1>NamNT</h1>
++    <h1>Nguyen Tien Nam</h1>
  </body>
  </html>
 \ No newline at end of file
